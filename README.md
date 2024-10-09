@@ -1,6 +1,12 @@
-## Hi there 👋
-<img src="https://static.wikia.nocookie.net/teachers-pet/images/d/d6/Scott_Leadready.png/revision/latest?cb=20210601145207">
+## Presentación
 
+¡¡Sed bienvenidos al mejor Github del mundo!!
+
+<img src="http://drive.google.com/thumbnail?id=156NiXpO5DHAnyPhkCUZ9kj3yUgAcpEQR&sz=w1000">
+
+Spot es un perro inteligente con un sueño: ser un niño. Cuando Spot se entera de que hay un científico capaz de hacer su sueño realidad, parte de viaje en su busca.
+
+Dios
 
 <!--
 **AitorSagarduy/AitorSagarduy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
