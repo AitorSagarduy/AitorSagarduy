@@ -1,4 +1,6 @@
 ## Hi there 👋
+<img src="https://static.wikia.nocookie.net/teachers-pet/images/d/d6/Scott_Leadready.png/revision/latest?cb=20210601145207">
+
 
 <!--
 **AitorSagarduy/AitorSagarduy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
